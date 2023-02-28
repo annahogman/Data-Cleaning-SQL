@@ -1,3 +1,3 @@
 # Data Cleaning SQL
 
-Practicing cleaning data with SQL Queries.
+Practicing data cleaning with SQL Queries.
